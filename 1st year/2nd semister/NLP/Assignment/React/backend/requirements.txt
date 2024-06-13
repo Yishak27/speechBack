@@ -1,0 +1,8 @@
+Flask
+tensorflow
+numpy
+scipy
+python_speech_features
+werkzeug
+librosa
+isort
